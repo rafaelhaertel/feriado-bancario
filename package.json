@@ -1,0 +1,27 @@
+{
+  "name": "feriado-bancario",
+  "version": "1.0.0",
+  "description": "Todos os feriados bancários até 2078",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rafaelhaertel/feriado-bancario.git"
+  },
+  "keywords": [
+    "Feriado",
+    "Banco",
+    "Brasil",
+    "Holiday",
+    "Banks",
+    "Brazil"
+  ],
+  "author": "Rafael Haertel",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rafaelhaertel/feriado-bancario/issues"
+  },
+  "homepage": "https://github.com/rafaelhaertel/feriado-bancario#readme"
+}
